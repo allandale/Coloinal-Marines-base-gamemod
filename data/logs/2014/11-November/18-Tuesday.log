@@ -1,0 +1,102 @@
+
+
+Starting up. 23:36.52
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Adding game mode infestation (infestation) to configuration.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'infestation'
+[23:36:52]ADMIN: Loading Banlistjob
+[23:36:52]ADMIN: Banlistjob is empty.
+[23:36:52]ADMIN: Banlistjob missing base dir.
+[23:36:52]ADMIN: Loading jobban_rank
+[23:36:52]ADMIN: jobban_keylist was empty
+[23:36:52]ADMIN: Updating jobbanfile!
+[23:36:52]ADMIN: Loading Banlist
+[23:36:52]ADMIN: Banlist is empty.
+[23:36:52]ADMIN: Banlist missing base dir.
+[23:37:15]ACCESS: Login: Apophis775/(Apophis775) from 127.0.0.1-2863415786 || BYOND v506
+[23:37:23]ADMIN: Apophis775 has started the game.
+[23:37:34]ADMIN: Apophis775 has started the game.
+[23:37:34]ACCESS: Logout: *no key*/(Apophis775)
+[23:37:34]ACCESS: Login: Apophis775/(Darius Hughes) from 127.0.0.1-2863415786 || BYOND v506
+[23:37:34]DEBUG: Generated new cached mob icon (1m011111111111000000 <IMG CLASS=icon SRC=[0xc0003ce]>) for . 1 cached mob icons.
+[23:37:35]ACCESS: Logout: *no key*/(Darius Hughes)
+[23:37:35]ACCESS: Login: Apophis775/(alien drone (60)) from 127.0.0.1-2863415786 || BYOND v506
+[23:37:36]DEBUG: Retrieved cached mob icon (1m011111111111000000 <IMG CLASS=icon SRC=[0xc0003ce]>) for the unknown.
+[23:37:36]DEBUG: Retrieved cached mob icon (1m011111111111000000 <IMG CLASS=icon SRC=[0xc0003ce]>) for the unknown.
+[23:37:36]DEBUG: Retrieved cached mob icon (1m011111111111000000 <IMG CLASS=icon SRC=[0xc0003ce]>) for the unknown.
+[23:37:38]DEBUG: Next event in 35.028 minutes.
+[23:37:43]GAME: Antagonists at round end were...
+[23:37:43]GAME: Drones: Darius Hughes(Apophis775), alien drone (60)(Apophis775).
+[23:37:45]ACCESS: Logout: *no key*/(alien drone (60))
+[23:37:45]ACCESS: Login: Apophis775/(alien drone (60)) from 127.0.0.1-2863415786 || BYOND v506
+[23:37:52]ADMIN: Apophis775/(alien drone (60)) delayed the round end.
+[23:37:58]ACCESS: Logout: Apophis775/(alien drone (60))
+
+
+Starting up. 23:41.25
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Adding game mode infestation (infestation) to configuration.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'infestation'
+[23:41:26]ADMIN: Loading Banlistjob
+[23:41:26]ADMIN: Loading jobban_rank
+[23:41:26]ADMIN: jobban_keylist was empty
+[23:41:26]ADMIN: Updating jobbanfile!
+[23:41:26]ADMIN: Loading Banlist
+[23:42:14]ACCESS: Login: Apophis775/(Apophis775) from 127.0.0.1-2863415786 || BYOND v506
+[23:42:35]ADMIN: Apophis775/(Apophis775) set the mode as extended.
+[23:42:45]ADMIN: Apophis775 has started the game.
+[23:42:46]ACCESS: Logout: *no key*/(Apophis775)
+[23:42:46]ACCESS: Login: Apophis775/(Grace Cherry) from 127.0.0.1-2863415786 || BYOND v506
+[23:42:47]DEBUG: Generated new cached mob icon (1m011111111111000000 <IMG CLASS=icon SRC=[0xc0003d0]>) for the unknown. 1 cached mob icons.
+[23:42:47]DEBUG: Retrieved cached mob icon (1m011111111111000000 <IMG CLASS=icon SRC=[0xc0003d0]>) for the unknown.
+[23:42:47]DEBUG: Retrieved cached mob icon (1m011111111111000000 <IMG CLASS=icon SRC=[0xc0003d0]>) for the unknown.
+[23:42:47]DEBUG: Generated new cached mob icon (1f011111111111000000 <IMG CLASS=icon SRC=[0xc0003d6]>) for . 2 cached mob icons.
+[23:42:50]DEBUG: Next event in 44.114 minutes.
+[23:42:53]SAY: [0x3000017]/ : BWAAAAARK BWAK BWAK BWAK!
+[23:43:18]ADMIN: Apophis775/(Grace Cherry) spawned /obj/effect/alien/weeds at (186,107,6)
+[23:43:22]ADMIN: Apophis775/(Grace Cherry) spawned /mob/living/carbon/alien/larva at (186,107,6)
+[23:43:26]ADMIN: Apophis775/(Grace Cherry) spawned /obj/item/weapon/gun/twohanded/projectile/c20r/m41a at (184,107,6)
+[23:43:30]ATTACK: Grace Cherry (apophis775) shot the alien larva (498) () with a the bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=184;Y=107;Z=6'>JMP</a>)
+[23:43:30]ATTACK: Grace Cherry (apophis775) shot the alien larva (498) () with a the bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=184;Y=107;Z=6'>JMP</a>)
+[23:43:35]ADMIN: Apophis775/(Grace Cherry) spawned /mob/living/carbon/alien/larva at (186,107,6)
+[23:43:39]ATTACK: Grace Cherry (apophis775) shot the alien larva (995) () with a the bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=184;Y=107;Z=6'>JMP</a>)
+[23:43:43]SAY: [0x300000b]/ : SQUEEK!
+[23:44:11]ATTACK: Grace Cherry (apophis775) shot the alien larva (995) () with a the bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=184;Y=107;Z=6'>JMP</a>)
+[23:44:17]ATTACK: Grace Cherry (apophis775) shot the alien larva (995) () with a the bullet (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=184;Y=107;Z=6'>JMP</a>)
+[23:45:53]DEBUG: Generated new cached mob icon (1m011111111111100000 <IMG CLASS=icon SRC=[0xc00040d]>) for Clown. 3 cached mob icons.
+[23:45:53]DEBUG: Retrieved cached mob icon (1m011111111111100000 <IMG CLASS=icon SRC=[0xc00040d]>) for Clown.
+[23:45:53]DEBUG: Retrieved cached mob icon (1m011111111111100000 <IMG CLASS=icon SRC=[0xc00040d]>) for Clown Pilot.
+[23:45:53]DEBUG: Retrieved cached mob icon (1m011111111111100000 <IMG CLASS=icon SRC=[0xc00040d]>) for Clown Pilot.
+[23:45:53]DEBUG: Retrieved cached mob icon (1m011111111111100000 <IMG CLASS=icon SRC=[0xc00040d]>) for Clown.
+[23:45:53]DEBUG: Retrieved cached mob icon (1m011111111111100000 <IMG CLASS=icon SRC=[0xc00040d]>) for Clown.
+[23:45:55]ACCESS: Logout: Apophis775/(Grace Cherry)
