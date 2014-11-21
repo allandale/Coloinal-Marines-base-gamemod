@@ -1,7 +1,7 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1416471647
-DIR: code\ATMOSPHERICS code\game code\game\gamemodes code\game\gamemodes\blob\blobs code\game\gamemodes\xeno code\game\mecha code\game\objects code\game\objects\effects code\game\objects\structures code\game\turfs code\modules code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\alien code\modules\mob\living\carbon\alien\humanoid code\modules\paperwork code\WorkInProgress code\WorkInProgress\Susan maps 
+LAST_COMPILE_TIME: 1416537512
+DIR: code\ATMOSPHERICS code\game code\game\gamemodes code\game\gamemodes\blob\blobs code\game\gamemodes\xeno code\game\mecha code\game\objects code\game\objects\effects code\game\objects\structures code\game\turfs code\modules code\modules\mob icons icons\obj icons\obj\doors maps 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 507.1267
