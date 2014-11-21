@@ -1,0 +1,129 @@
+
+
+Starting up. 21:36.18
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Adding game mode infestation (infestation) to configuration.
+Unknown setting in configuration: 'metroid_delay'
+[21:36:18]ADMIN: Loading Banlistjob
+[21:36:18]ADMIN: Banlistjob is empty.
+[21:36:18]ADMIN: Banlistjob missing base dir.
+[21:36:18]ADMIN: Loading jobban_rank
+[21:36:18]ADMIN: jobban_keylist was empty
+[21:36:18]ADMIN: Updating jobbanfile!
+[21:36:18]ADMIN: Loading Banlist
+[21:36:18]ADMIN: Banlist is empty.
+[21:36:18]ADMIN: Banlist missing base dir.
+[21:36:28]ACCESS: Login: Allan1234/(Allan1234) from 127.0.0.1-4183277615 || BYOND v507
+[21:36:52]ACCESS: Logout: Allan1234/(Allan1234)
+[21:36:55]ACCESS: Login: Allan1234/(Allan1234) from 127.0.0.1-4183277615 || BYOND v507
+[21:37:16]ADMIN: Allan1234 has started the game.
+[21:37:30]ACCESS: Logout: Allan1234/(Allan1234)
+
+
+Starting up. 21:38.42
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Adding game mode infestation (infestation) to configuration.
+Unknown setting in configuration: 'metroid_delay'
+[21:38:42]ADMIN: Loading Banlistjob
+[21:38:42]ADMIN: Loading jobban_rank
+[21:38:42]ADMIN: jobban_keylist was empty
+[21:38:42]ADMIN: Updating jobbanfile!
+[21:38:42]ADMIN: Loading Banlist
+
+
+Starting up. 21:40.30
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Adding game mode infestation (infestation) to configuration.
+Unknown setting in configuration: 'metroid_delay'
+[21:40:30]ADMIN: Loading Banlistjob
+[21:40:30]ADMIN: Loading jobban_rank
+[21:40:30]ADMIN: jobban_keylist was empty
+[21:40:30]ADMIN: Updating jobbanfile!
+[21:40:30]ADMIN: Loading Banlist
+[21:40:40]ACCESS: Login: Allan1234/(Allan1234) from 127.0.0.1-4183277615 || BYOND v507
+[21:40:54]ADMIN: Allan1234 has started the game.
+[21:41:35]ADMIN: Allan1234/(Allan1234) set the mode as malfunction.
+[21:41:40]ADMIN: Allan1234/(Allan1234) set the mode as random.
+[21:41:48]ADMIN: Allan1234 has started the game.
+[21:42:03]ADMIN: Allan1234/(Allan1234) set the mode as meteor.
+[21:42:07]ADMIN: Allan1234 has started the game.
+[21:42:07]ACCESS: Logout: *no key*/(Allan1234)
+[21:42:07]ACCESS: Login: Allan1234/(Lincoln Hice) from 127.0.0.1-4183277615 || BYOND v507
+[21:42:08]DEBUG: Generated new cached mob icon (1m011111111111000000 <IMG CLASS=icon SRC=[0xc0003ca]>) for . 1 cached mob icons.
+[21:42:10]DEBUG: Next event in 47.396 minutes.
+[21:42:38]ADMIN: Allan1234/(Lincoln Hice) deleted Glass Airlock at (74,172,1)
+[21:44:58]ADMIN: Allan1234/(Lincoln Hice) made all areas powered
+[21:44:58]ADMIN: Allan1234/(Lincoln Hice) used secret power
+[21:47:09]GAME: SQL ERROR during player polling. Failed to connect.
+[21:48:10]GAME: SQL ERROR during admin polling. Failed to connect.
+[21:49:47]ACCESS: Logout: Allan1234/(Lincoln Hice)
+
+
+Starting up. 22:11.35
+---------------------
+Adding game mode AutoTraitor (extend-a-traitormongous) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode heist (heist) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode rp-revolution (rp-revolution) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Adding game mode infestation (infestation) to configuration.
+Unknown setting in configuration: 'metroid_delay'
+Saved mode is 'meteor'
+[22:11:35]ADMIN: Loading Banlistjob
+[22:11:35]ADMIN: Loading jobban_rank
+[22:11:35]ADMIN: jobban_keylist was empty
+[22:11:35]ADMIN: Updating jobbanfile!
+[22:11:35]ADMIN: Loading Banlist
+[22:11:44]ACCESS: Login: Allan1234/(Allan1234) from 127.0.0.1-4183277615 || BYOND v507
+[22:12:01]ACCESS: Logout: Allan1234/(Allan1234)
