@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: code\ATMOSPHERICS\datum_pipe_network.dm;code\WorkInProgress\Susan\susan_desert_turfs.dm;code\modules\paperwork\paper.dm;code\modules\mob\living\carbon\alien\humanoid\alien_powers.dm;code\game\gamemodes\xeno\xeno.dm;code\game\objects\effects\aliens.dm;code\modules\mob\living\carbon\alien\larva\life.dm
+WINDOW: code\names.dm;code\modules\mob\living\carbon\alien\larva\life.dm
 LAST_COMPILE_VERSION: 506.1247
-DIR: code code\ATMOSPHERICS code\game code\game\gamemodes code\game\gamemodes\blob\blobs code\game\gamemodes\xeno code\game\mecha code\game\objects code\game\objects\effects code\game\objects\structures code\game\turfs code\modules code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\alien code\modules\mob\living\carbon\alien\humanoid code\modules\mob\living\carbon\alien\larva code\modules\paperwork code\WorkInProgress code\WorkInProgress\Susan 
+DIR: code code\ATMOSPHERICS code\game\gamemodes code\game\gamemodes\blob\blobs code\game\gamemodes\xeno code\game\mecha code\game\objects code\game\objects\effects code\game\objects\structures code\game\turfs code\modules code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\alien code\modules\mob\living\carbon\alien\larva 
 FILE: code\modules\mob\living\carbon\alien\larva\life.dm
-LAST_COMPILE_TIME: 1416375645
+LAST_COMPILE_TIME: 1416470146
 AUTO_FILE_DIR: ON
 */
 // END_INTERNALS
